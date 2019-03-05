@@ -1,5 +1,5 @@
 # Lesson 5: Python Utilities and Modules
-Agenda 01-03-2019
+Agenda 05-03-2019
 
 
 ## Required reading
@@ -18,7 +18,7 @@ Agenda 01-03-2019
 * [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports/)
 
 ## Exercises
-* [Mandatory Assignment](https://github.com/python-elective-1-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/exercises/README.md)
+* [Mandatory Assignment](https://github.com/python-elective-2-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/exercises/README.md)
 
 <!-- * [copy.py](copy/copy.py) - _(To practice the file system and external-commands material)_
     * [xyz_hello.txt](copy/xyz_hello.txt)
